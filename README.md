@@ -79,9 +79,10 @@
 
 **LoRa** **Lo**ng-**Ra**nge Radio Communicaitions
 
-[^1] **A Novel LoRa LPWAN-Based Communication Architecture for Search & Rescue Missions** [IEEE article](https://ieeexplore.ieee.org/document/9783031) [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9783031)
-   > M. P. Manuel, M. Faied and M. Krishnan, "A Novel LoRa LPWAN-Based Communication Architecture for Search & Rescue Missions,"
-   > in IEEE Access, vol. 10, pp. 57596-57607, 2022, doi: 10.1109/ACCESS.2022.3178437.
+[^1]: **A Novel LoRa LPWAN-Based Communication Architecture for Search & Rescue Missions** [IEEE article](https://ieeexplore.ieee.org/document/9783031) [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9783031)
+> M. P. Manuel, M. Faied and M. Krishnan, "A Novel LoRa LPWAN-Based Communication Architecture for Search & Rescue Missions,"
+> in IEEE Access, vol. 10, pp. 57596-57607, 2022, doi: 10.1109/ACCESS.2022.3178437.
+
 
 1. **LoRa Rover** [Github respoitory](https://github.com/luickk/lora_rover_).
    > The Lora Rover is a standard RC car equipped with an lora transmission module with which large distances can be overcome.
