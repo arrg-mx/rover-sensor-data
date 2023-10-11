@@ -35,6 +35,7 @@
 | :----------| :----------- |
 | Hernández Trejo Enrique Zoé | *por definir* | 
 | Baruc Martínez Velasco | *por definir* | 
+| Amaya Martínez Yoselin Ivonne | *por definir* |
 
 ## Referencias
 
