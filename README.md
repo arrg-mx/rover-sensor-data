@@ -15,7 +15,7 @@
 	- [ ] Evaluación del material disponible.
   - [ ] Selección de 3 sensores a implementar.
   	- *Recomendación:* IMU, Lidar, Camera(s), Ultrasonic Sensor
-   	- *Recomendación:* LoRa con ROS[^1]
+   	- *Recomendación:* LoRa con ROS [^1]
  	- [ ] Implementación del modelo del robot seleccionado.
   	- [ ]  Esquema de paquetes/metapaquete a implementar
   	- [ ]  Diagrama de nodos y tópicos
