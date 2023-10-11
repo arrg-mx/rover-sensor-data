@@ -1,4 +1,4 @@
-# ARRG: Curso ROS2 Humble, 2024-I  - Rover sensor data
+# ARRG: Curso ROS2 Humble, 2024-I  - Rover communications and sensor data
 
 ## Contenido
 
