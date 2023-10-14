@@ -53,7 +53,8 @@
 1. *(Proyecto)* **ros-rover** [Github repository](https://github.com/danielsnider/ros-rover). Artículo del proyecto y otros materiales, **sin código fuente**
 1. **A Gazebo-ROS simulation of Curiosity Mars Rover v1.0** [Github repository](https://github.com/rivascf/curiosity-mars-rover/)
 1. **How I Built a Mars Perseverance Rover Replica - Arduino based Project** [YT video](https://www.youtube.com/watch?v=NOZZMsMAGh0)
-
+2. **I Built a Mini Mars Rover** [YT video](https://www.youtube.com/watch?v=OB4AxmelKik)
+   
 ### Sensors 
 
 *Ejemplos de posibles sensores para implementar en la simulación*
